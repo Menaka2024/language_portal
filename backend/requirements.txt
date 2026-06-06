@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+sqlalchemy
+aiosqlite
+spacy
+pytesseract
+Pillow
+SpeechRecognition
+pydub
+httpx
+passlib[bcrypt]
+python-jose[cryptography]
+pdfplumber
